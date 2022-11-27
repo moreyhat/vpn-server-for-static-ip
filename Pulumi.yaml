@@ -1,0 +1,3 @@
+name: vpn-server-for-static-ip
+description: VPN server for   static IP address
+runtime: nodejs
